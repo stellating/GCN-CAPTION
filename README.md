@@ -1,5 +1,5 @@
 # ML-GCN.pytorch
-Medical image application of ML-GCN. [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/abs/1904.03582), CVPR 2019.
+Medical image caption based on ML-GCN. Code is updating ......
 
 ### Requirements
 Please, install the following packages
